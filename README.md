@@ -43,7 +43,7 @@ La Tienda 4 tiene **costos de envío altos** que afectan su rentabilidad.
 
 4. ▶️ Instrucciones para Ejecutar el Notebook
 
-1. Abre [Google Colab](https://colab.research.google.com).
-2. Sube el archivo `AluraStoreLatam_PedroMoreno.ipynb` o cópialo desde tu repositorio.
-3. Asegúrate de tener conexión a internet para cargar los datos desde las URLs o súbelos manualmente.
-4. Ejecuta las celdas una por una o selecciona `Entorno de ejecución > Ejecutar todo`.
+🔸 Abre [Google Colab](https://colab.research.google.com).
+🔸 Sube el archivo `AluraStoreLatam_PedroMoreno.ipynb` o cópialo desde tu repositorio.
+🔸 Asegúrate de tener conexión a internet para cargar los datos desde las URLs o súbelos manualmente.
+🔸 Ejecuta las celdas una por una o selecciona `Entorno de ejecución > Ejecutar todo`.
